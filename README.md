@@ -1,0 +1,2 @@
+# Equity-Valuation-Modelling-in-Excel
+This project consists of custom built modelling frameworks for pricing equity assets. Through the project's evolution, the framework evolves from a single case Discounted Cash Flow model to an interactive Probability Weighted Discounted Cash Flow model that includes multiple cases, multiple supporting models and is all built in Excel while utilizing the Visual Basic programming language. 
